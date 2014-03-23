@@ -1,0 +1,10 @@
+# Configuration for CI build at https://travis-ci.org/spring-io/sagan
+
+language: java
+
+jdk:
+  - oraclejdk7
+
+node_js:
+  - "0.10"
+
